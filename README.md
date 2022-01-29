@@ -32,9 +32,8 @@
 
 - [Features](#features)
 - [Usage](#usage)
+- [Installation](#installation)
 - [Contribute](#contribute)
-- [Credits](#credits)
-- [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
 
@@ -63,6 +62,7 @@
 
 [Link to the deployed site on Heroku](https://warm-hollows-95259.herokuapp.com/)
 
+ --- 
 
 ## Contribute
 
